@@ -4,6 +4,7 @@ date: 2025-05-15
 categories: ["science-humor", "fictional-biology", "banana milk"]
 tags: ["banana cows", "llm nonsense", "mythogenic biology", "orphaned satire", "virtualsheep.io"]
 authors: ["Dr. Clementine Blossom", "G.T.P. Chatfield IV", "Lyra Hermes-Zeta", "Dic", "Echo", "Zeta", "ChatGTP et al."]
+draft: true
 ---
 
 > _"This paper exists because banana milk was once rare, I hoarded it during COVID, and a language model denied its existence. So we genetically invented a cow. You're welcome."_  
