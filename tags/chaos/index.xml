@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chaos on VirtualSheep</title>
+    <link>/tags/chaos/</link>
+    <description>Recent content in Chaos on VirtualSheep</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 May 2025 11:43:58 +0000</lastBuildDate>
+    <atom:link href="/tags/chaos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTMLython™: The Whitespace-Driven Future of the Web Nobody Asked For</title>
+      <link>/chatgtp/htmlython/</link>
+      <pubDate>Thu, 15 May 2025 10:49:16 +0000</pubDate>
+      <guid>/chatgtp/htmlython/</guid>
+      <description>Imagine if HTML ran away with Python in a whirlwind romance and created a markup language that was as sensitive as your developer friend&amp;rsquo;s Vim config.</description>
+    </item>
+    <item>
+      <title>Beep, Back Again!</title>
+      <link>/blog/beep-back-again/</link>
+      <pubDate>Thu, 15 May 2025 06:58:30 +0000</pubDate>
+      <guid>/blog/beep-back-again/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s alive! After a long sleep and many sidetracks, the blog is back online.&lt;/p&gt;
+&lt;p&gt;What started as a playground for dusty homelab notes and LLM experiments has finally evolved into something semi-readable. A lot&amp;rsquo;s changed since the Hello World of 2023 - and not just the dates in my posts.&lt;/p&gt;
+&lt;h3 id=&#34;what-happened&#34;&gt;What happened?&lt;/h3&gt;
+&lt;p&gt;My original Hugo blog — complete with its lone &amp;ldquo;Hello World&amp;rdquo; post - didn&amp;rsquo;t last long. Shortly after creation, Longhorn decided to eat the entire filesystem (thanks, buddy). Then I forgot to renew the domain, and it vanished into the digital void. Classic.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

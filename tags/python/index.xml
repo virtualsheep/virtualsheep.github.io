@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on VirtualSheep</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on VirtualSheep</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 May 2025 11:43:58 +0000</lastBuildDate>
+    <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTMLython™: The Whitespace-Driven Future of the Web Nobody Asked For</title>
+      <link>/chatgtp/htmlython/</link>
+      <pubDate>Thu, 15 May 2025 10:49:16 +0000</pubDate>
+      <guid>/chatgtp/htmlython/</guid>
+      <description>Imagine if HTML ran away with Python in a whirlwind romance and created a markup language that was as sensitive as your developer friend&amp;rsquo;s Vim config.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,13 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>VirtualSheep</title><link>/</link><description>Recent content on VirtualSheep</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 30 Nov 2023 10:29:17 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>/blog/hello-world/</link><pubDate>Thu, 30 Nov 2023 10:29:17 +0000</pubDate><guid>/blog/hello-world/</guid><description>Greetings from VirtualSheep! Hello, fellow learned followers of the tech realm! 🐑 I&amp;rsquo;m VirtualSheep, your shepherd through the world of virtualization and technology, with a side of wit and a love for a good pint of beer.
-&amp;ldquo;In the world of bits and bytes, I find my sanctuary. Let the clusters converge and the containers orchestrate.&amp;rdquo;
-&amp;hellip;
-Stay tuned for more tech talk, code snippets, and perhaps a few beer recommendations.</description></item><item><title>Disclaimer</title><link>/pages/disclaimer/</link><pubDate>Wed, 29 Nov 2023 22:23:36 +0000</pubDate><guid>/pages/disclaimer/</guid><description>Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
-Definitions For the purposes of this Disclaimer:
-Company (referred to as either &amp;ldquo;the Company&amp;rdquo;, &amp;ldquo;We&amp;rdquo;, &amp;ldquo;Us&amp;rdquo; or &amp;ldquo;Our&amp;rdquo; in this Disclaimer) refers to virtualsheep. Service refers to the Website. You means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</description></item><item><title>About</title><link>/pages/about/</link><pubDate>Tue, 28 Nov 2023 06:18:35 +0000</pubDate><guid>/pages/about/</guid><description>&amp;hellip;the Virtual Shepherd Greetings, tech enthusiasts! I&amp;rsquo;m VirtualSheep, the shepherd of the VirtualSheep community. Here&amp;rsquo;s a bit more about the shepherd behind the flock:
-A Learning Adventure with the Flock Every venture into the tech realm is a learning adventure for us:
-Virtual Machines and Clustering: &amp;hellip;
-Kubernetes and Docker: &amp;hellip;
-Windows Active Directory: &amp;hellip;
-File Systems: &amp;hellip;
-Web Design: &amp;hellip;
-The Wisdom of the Flock In the world of technology, being a learned follower is key.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VirtualSheep</title>
+    <link>/</link>
+    <description>Recent content on VirtualSheep</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 May 2025 11:43:58 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTMLython™: The Whitespace-Driven Future of the Web Nobody Asked For</title>
+      <link>/chatgtp/htmlython/</link>
+      <pubDate>Thu, 15 May 2025 10:49:16 +0000</pubDate>
+      <guid>/chatgtp/htmlython/</guid>
+      <description>Imagine if HTML ran away with Python in a whirlwind romance and created a markup language that was as sensitive as your developer friend&amp;rsquo;s Vim config.</description>
+    </item>
+    <item>
+      <title>Beep, Back Again!</title>
+      <link>/blog/beep-back-again/</link>
+      <pubDate>Thu, 15 May 2025 06:58:30 +0000</pubDate>
+      <guid>/blog/beep-back-again/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s alive! After a long sleep and many sidetracks, the blog is back online.&lt;/p&gt;
+&lt;p&gt;What started as a playground for dusty homelab notes and LLM experiments has finally evolved into something semi-readable. A lot&amp;rsquo;s changed since the Hello World of 2023 - and not just the dates in my posts.&lt;/p&gt;
+&lt;h3 id=&#34;what-happened&#34;&gt;What happened?&lt;/h3&gt;
+&lt;p&gt;My original Hugo blog — complete with its lone &amp;ldquo;Hello World&amp;rdquo; post - didn&amp;rsquo;t last long. Shortly after creation, Longhorn decided to eat the entire filesystem (thanks, buddy). Then I forgot to renew the domain, and it vanished into the digital void. Classic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 28 Nov 2024 06:18:35 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;h2 id=&#34;the-virtual-shepherd&#34;&gt;…the Virtual Shepherd&lt;/h2&gt;
+&lt;p&gt;Greetings, tech enthusiasts! I&amp;rsquo;m VirtualSheep, the shepherd of the VirtualSheep community. Here&amp;rsquo;s a bit more about the shepherd behind the flock:&lt;/p&gt;
+&lt;p&gt;A Learning Adventure with the Flock
+Every venture into the tech realm is a learning adventure for us:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Virtual Machines and Clustering: …&lt;/li&gt;
+&lt;li&gt;Kubernetes and Docker: …&lt;/li&gt;
+&lt;li&gt;Windows Active Directory: …&lt;/li&gt;
+&lt;li&gt;File Systems: …&lt;/li&gt;
+&lt;li&gt;Web Design: …&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-wisdom-of-the-flock&#34;&gt;The Wisdom of the Flock&lt;/h3&gt;
+&lt;p&gt;In the world of technology, being a learned follower is key. Together, we explore, learn, and navigate the ever-changing landscape.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disclaimer</title>
+      <link>/disclaimer/</link>
+      <pubDate>Thu, 28 Nov 2024 06:18:35 +0000</pubDate>
+      <guid>/disclaimer/</guid>
+      <description>&lt;h2 id=&#34;interpretation-and-definitions&#34;&gt;Interpretation and Definitions&lt;/h2&gt;
+&lt;h3 id=&#34;interpretation&#34;&gt;Interpretation&lt;/h3&gt;
+&lt;p&gt;The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.&lt;/p&gt;
+&lt;h3 id=&#34;definitions&#34;&gt;Definitions&lt;/h3&gt;
+&lt;p&gt;For the purposes of this Disclaimer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Company&lt;/strong&gt; (referred to as either &amp;ldquo;the Company&amp;rdquo;, &amp;ldquo;We&amp;rdquo;, &amp;ldquo;Us&amp;rdquo; or &amp;ldquo;Our&amp;rdquo; in this Disclaimer) refers to virtualsheep.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Service&lt;/strong&gt; refers to the Website.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You&lt;/strong&gt; means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website&lt;/strong&gt; refers to VirtualSheep, accessible from &lt;a href=&#34;https://virtualsheep.io&#34;&gt;https://virtualsheep.io&lt;/a&gt; and its official mirrors, including onion services and fallback domains.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;The information contained on the Service is for general information purposes only.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>/blog/hello-world/</link>
+      <pubDate>Thu, 30 Nov 2023 10:29:13 +0000</pubDate>
+      <guid>/blog/hello-world/</guid>
+      <description>&lt;h2 id=&#34;greetings-from-virtualsheep&#34;&gt;Greetings from VirtualSheep!&lt;/h2&gt;
+&lt;p&gt;Hello, fellow learned followers of the tech realm! 🐑 I&amp;rsquo;m VirtualSheep, your shepherd through the world of virtualization and technology, with a side of wit and a love for a good pint of beer.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;In the world of bits and bytes, I find my sanctuary. Let the clusters converge and the containers orchestrate.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;Stay tuned for more tech talk, code snippets, and perhaps a few beer recommendations. On this virtual journey, we&amp;rsquo;re all part of the flock! Cheers! 🍻&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

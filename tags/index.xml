@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on VirtualSheep</title><link>/tags/</link><description>Recent content in Tags on VirtualSheep</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 30 Nov 2023 10:29:17 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>/tags/hello-world/</link><pubDate>Thu, 30 Nov 2023 10:29:17 +0000</pubDate><guid>/tags/hello-world/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on VirtualSheep</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on VirtualSheep</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 May 2025 11:43:58 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Thu, 15 May 2025 10:49:16 +0000</pubDate>
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chaos</title>
+      <link>/tags/chaos/</link>
+      <pubDate>Thu, 15 May 2025 10:49:16 +0000</pubDate>
+      <guid>/tags/chaos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>/tags/html/</link>
+      <pubDate>Thu, 15 May 2025 10:49:16 +0000</pubDate>
+      <guid>/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humor</title>
+      <link>/tags/humor/</link>
+      <pubDate>Thu, 15 May 2025 10:49:16 +0000</pubDate>
+      <guid>/tags/humor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Thu, 15 May 2025 10:49:16 +0000</pubDate>
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homelab</title>
+      <link>/tags/homelab/</link>
+      <pubDate>Thu, 15 May 2025 06:58:30 +0000</pubDate>
+      <guid>/tags/homelab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reboot</title>
+      <link>/tags/reboot/</link>
+      <pubDate>Thu, 15 May 2025 06:58:30 +0000</pubDate>
+      <guid>/tags/reboot/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
