@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2025-05-16T06:01:14+00:00</lastmod>
+    <lastmod>2025-05-16T13:22:16+00:00</lastmod>
   </url><url>
     <loc>/tags/blog/</loc>
     <lastmod>2025-05-15T11:43:58+00:00</lastmod>
@@ -17,13 +17,13 @@
     <loc>/categories/chatgtp/</loc>
     <lastmod>2025-05-15T11:43:58+00:00</lastmod>
   </url><url>
-    <loc>/chatgtp/</loc>
+    <loc>/guests/</loc>
     <lastmod>2025-05-15T11:43:58+00:00</lastmod>
   </url><url>
     <loc>/tags/html/</loc>
     <lastmod>2025-05-15T11:43:58+00:00</lastmod>
   </url><url>
-    <loc>/chatgtp/htmlython/</loc>
+    <loc>/guests/htmlython/</loc>
     <lastmod>2025-05-15T11:43:58+00:00</lastmod>
   </url><url>
     <loc>/tags/humor/</loc>
@@ -58,6 +58,12 @@
   </url><url>
     <loc>/blog/hello-world/</loc>
     <lastmod>2025-05-15T07:53:44+00:00</lastmod>
+  </url><url>
+    <loc>/science-papers/dimentions/</loc>
+    <lastmod>2025-05-16T13:22:16+00:00</lastmod>
+  </url><url>
+    <loc>/science-papers/</loc>
+    <lastmod>2025-05-16T13:22:16+00:00</lastmod>
   </url><url>
     <loc>/search/</loc>
     <lastmod>2025-05-14T01:36:31+00:00</lastmod>
