@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>VirtualSheep</title><link>https://virtualsheep.io/</link><description>Recent content on VirtualSheep</description><generator>Hugo -- 0.147.3</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 12:41:11 +0000</lastBuildDate><atom:link href="https://virtualsheep.io/index.xml" rel="self" type="application/rss+xml"/><item><title>HTMLython™: The Whitespace-Driven Future of the Web Nobody Asked For</title><link>https://virtualsheep.io/ai-guests/htmlython/</link><pubDate>Thu, 15 May 2025 10:49:16 +0000</pubDate><guid>https://virtualsheep.io/ai-guests/htmlython/</guid><description>Imagine if HTML ran away with Python in a whirlwind romance and created a markup language that was as sensitive as your developer friend&amp;rsquo;s Vim config.</description></item><item><title>Beep, Back Again!</title><link>https://virtualsheep.io/blog/beep-back-again/</link><pubDate>Thu, 15 May 2025 06:58:30 +0000</pubDate><guid>https://virtualsheep.io/blog/beep-back-again/</guid><description>&lt;p>It&amp;rsquo;s alive! After a long sleep and many sidetracks, the blog is back online.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>VirtualSheep</title><link>https://virtualsheep.io/</link><description>Recent content on VirtualSheep</description><generator>Hugo -- 0.147.3</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 04:53:45 +0000</lastBuildDate><atom:link href="https://virtualsheep.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Attributions</title><link>https://virtualsheep.io/attributions/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://virtualsheep.io/attributions/</guid><description>&lt;p>This page acknowledges and credits the people, projects, and platforms that help power &lt;strong>VirtualSheep&lt;/strong> — from open source software to AI collaborators and creative assets.&lt;/p>
+&lt;h2 id="static-site-generator">Static Site Generator&lt;/h2>
+&lt;p>This site is built with &lt;a href="https://gohugo.io/">Hugo&lt;/a> — The world’s fastest framework for building websites.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Theme:&lt;/strong> &lt;a href="https://adityatelange.github.io/hugo-PaperMod/">PaperMod&lt;/a> A fast, clean, responsive Hugo theme.&lt;/li>
+&lt;/ul>
+&lt;h2 id="assets">Assets&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.flaticon.com/free-icons/sheep">Sheep icons created by Freepik - Flaticon&lt;/a>
+&lt;sup id="cite_ref_1">
+&lt;a href="#cite_note_1" title="Freepik | All-in-One AI Creative Suite">[1]&lt;/a>
+&lt;/sup>
+&lt;/li>
+&lt;li>&lt;a href="https://www.flaticon.com/free-icons/alert">Alert icons created by Freepik - Flaticon&lt;/a>
+&lt;sup id="cite_ref_1">
+&lt;a href="#cite_note_1" title="Freepik | All-in-One AI Creative Suite">[1]&lt;/a>
+&lt;/sup>
+&lt;/li>
+&lt;li>&lt;a href="https://www.flaticon.com/free-icons/information">Information icons created by Freepik - Flaticon&lt;/a>
+&lt;sup id="cite_ref_1">
+&lt;a href="#cite_note_1" title="Freepik | All-in-One AI Creative Suite">[1]&lt;/a>
+&lt;/sup>
+&lt;/li>
+&lt;li>&lt;a href="https://www.flaticon.com/free-icons/error">Error icons created by Freepik - Flaticon&lt;/a>
+&lt;sup id="cite_ref_1">
+&lt;a href="#cite_note_1" title="Freepik | All-in-One AI Creative Suite">[1]&lt;/a>
+&lt;/sup>
+&lt;/li>
+&lt;li>&lt;a href="https://www.flaticon.com/free-icons/correct">Correct icons created by Freepik - Flaticon&lt;/a>
+&lt;sup id="cite_ref_1">
+&lt;a href="#cite_note_1" title="Freepik | All-in-One AI Creative Suite">[1]&lt;/a>
+&lt;/sup>
+&lt;/li>
+&lt;li>&lt;a href="https://www.flaticon.com/free-icons/bitcoin">Bitcoin icons created by dmitri13 - Flaticon&lt;/a>
+&lt;sup id="cite_ref_1">
+&lt;a href="#cite_note_1" title="Freepik | All-in-One AI Creative Suite">[1]&lt;/a>
+&lt;/sup>
+&lt;sup id="cite_ref_2">
+&lt;a href="#cite_note_2" title="Free icons designed by dmitri13 | Flaticon">[2]&lt;/a>
+&lt;/sup>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="ai-assistance">AI Assistance&lt;/h2>
+&lt;p>Parts of this site include contributions from various LLMs and AI systems.&lt;/p></description></item><item><title>HTMLython™: The Whitespace-Driven Future of the Web Nobody Asked For</title><link>https://virtualsheep.io/ai-guests/htmlython/</link><pubDate>Thu, 15 May 2025 10:49:16 +0000</pubDate><guid>https://virtualsheep.io/ai-guests/htmlython/</guid><description>Imagine if HTML ran away with Python in a whirlwind romance and created a markup language that was as sensitive as your developer friend&amp;rsquo;s Vim config.</description></item><item><title>Beep, Back Again!</title><link>https://virtualsheep.io/blog/beep-back-again/</link><pubDate>Thu, 15 May 2025 06:58:30 +0000</pubDate><guid>https://virtualsheep.io/blog/beep-back-again/</guid><description>&lt;p>It&amp;rsquo;s alive! After a long sleep and many sidetracks, the blog is back online.&lt;/p>
 &lt;p>What started as a playground for dusty homelab notes and clustering experiments has finally evolved into something semi-readable. A lot&amp;rsquo;s changed since the Hello World of 2023 - and not just the dates in my posts.&lt;/p>
 &lt;h3 id="what-happened">What happened?&lt;/h3>
 &lt;p>My original Hugo blog — complete with its lone &amp;ldquo;Hello World&amp;rdquo; post - didn&amp;rsquo;t last long. Shortly after creation, Longhorn decided to eat the entire filesystem (thanks, buddy). Then I forgot to renew the domain, and it vanished into the digital void. Classic.&lt;/p></description></item><item><title>About</title><link>https://virtualsheep.io/about/</link><pubDate>Thu, 28 Nov 2024 06:18:35 +0000</pubDate><guid>https://virtualsheep.io/about/</guid><description>&lt;h2 id="the-virtual-shepherd">…the Virtual Shepherd&lt;/h2>
