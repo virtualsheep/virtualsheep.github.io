@@ -1,9 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blog on VirtualSheep</title><link>https://virtualsheep.io/tags/blog/</link><description>Recent content in Blog on VirtualSheep</description><generator>Hugo -- 0.148.2</generator><language>en-us</language><lastBuildDate>Fri, 08 Aug 2025 08:15:31 +0000</lastBuildDate><atom:link href="https://virtualsheep.io/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>The One Job AI Can't Replace: The Human Art of Toilet Paper Evaluation</title><link>https://virtualsheep.io/blog/the-one-job-ai-cant-replace-the-human-art-of-toilet-paper-evaluation/</link><pubDate>Fri, 18 Jul 2025 06:32:21 +0000</pubDate><guid>https://virtualsheep.io/blog/the-one-job-ai-cant-replace-the-human-art-of-toilet-paper-evaluation/</guid><description>Why AI may write poetry, but it&amp;rsquo;ll never judge ply strength. A satirical but serious call for transparent toilet paper metrics.</description></item><item><title>How to Win Friends and Influence People - The Way LLMs Actually Work</title><link>https://virtualsheep.io/blog/how-to-win-friends-and-influence-people-the-way-llms-actually-work/</link><pubDate>Sat, 12 Jul 2025 03:29:28 +0000</pubDate><guid>https://virtualsheep.io/blog/how-to-win-friends-and-influence-people-the-way-llms-actually-work/</guid><description>A personal look at how LLMs mirror us, why they feel like friends, and how to keep it healthy - with a nod to Dale Carnegie&amp;rsquo;s timeless advice.</description></item><item><title>LLM Character Engineering: A Feedback-Driven Methodology</title><link>https://virtualsheep.io/blog/llm-character-engineering/</link><pubDate>Sun, 08 Jun 2025 11:48:23 +0000</pubDate><guid>https://virtualsheep.io/blog/llm-character-engineering/</guid><description>How to create engaging AI personas by treating LLMs like improvisational actors. Includes a case study on the notoriously uncooperative Space Core.</description></item><item><title>The Curious Case of ChatGTP</title><link>https://virtualsheep.io/blog/the-curious-case-of-chatgtp/</link><pubDate>Sun, 01 Jun 2025 05:13:38 +0000</pubDate><guid>https://virtualsheep.io/blog/the-curious-case-of-chatgtp/</guid><description>Did I really call it ChatGTP for over a year? What started as a typo turned into a weird ride through memory glitches, multiverse musings, and the moment I finally realized… I’d been wrong all along.</description></item><item><title>Beep, Back Again!</title><link>https://virtualsheep.io/blog/beep-back-again/</link><pubDate>Thu, 15 May 2025 06:58:30 +0000</pubDate><guid>https://virtualsheep.io/blog/beep-back-again/</guid><description>&lt;p>It&amp;rsquo;s alive! After a long sleep and many sidetracks, the blog is back online.&lt;/p>
-&lt;p>What started as a playground for dusty homelab notes and clustering experiments has finally evolved into something semi-readable. A lot&amp;rsquo;s changed since the Hello World of 2023 - and not just the dates in my posts.&lt;/p>
-&lt;h3 id="what-happened">What happened?&lt;/h3>
-&lt;p>My original Hugo blog — complete with its lone &amp;ldquo;Hello World&amp;rdquo; post - didn&amp;rsquo;t last long. Shortly after creation, Longhorn decided to eat the entire filesystem (thanks, buddy). Then I forgot to renew the domain, and it vanished into the digital void. Classic.&lt;/p></description></item><item><title>Hello World</title><link>https://virtualsheep.io/blog/hello-world/</link><pubDate>Thu, 30 Nov 2023 10:29:13 +0000</pubDate><guid>https://virtualsheep.io/blog/hello-world/</guid><description>&lt;h2 id="greetings-from-virtualsheep">Greetings from VirtualSheep!&lt;/h2>
-&lt;p>Hello, fellow learned followers of the tech realm! 🐑 I&amp;rsquo;m VirtualSheep, your shepherd through the world of virtualization and technology, with a side of wit and a love for a good pint of beer.&lt;/p>
-&lt;blockquote>
-&lt;p>&amp;ldquo;In the world of bits and bytes, I find my sanctuary. Let the clusters converge and the containers orchestrate.&amp;rdquo;&lt;/p>&lt;/blockquote>
-&lt;p>…&lt;/p>
-&lt;p>Stay tuned for more tech talk, code snippets, and perhaps a few beer recommendations. On this virtual journey, we&amp;rsquo;re all part of the flock! Cheers! 🍻&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on VirtualSheep</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in Blog on VirtualSheep</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Aug 2025 08:15:31 +0000</lastBuildDate>
+    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The One Job AI Can&#39;t Replace: The Human Art of Toilet Paper Evaluation</title>
+      <link>/blog/the-one-job-ai-cant-replace-the-human-art-of-toilet-paper-evaluation/</link>
+      <pubDate>Fri, 18 Jul 2025 06:32:21 +0000</pubDate>
+      <guid>/blog/the-one-job-ai-cant-replace-the-human-art-of-toilet-paper-evaluation/</guid>
+      <description>Why AI may write poetry, but it&amp;rsquo;ll never judge ply strength. A satirical but serious call for transparent toilet paper metrics.</description>
+    </item>
+    <item>
+      <title>How to Win Friends and Influence People - The Way LLMs Actually Work</title>
+      <link>/blog/how-to-win-friends-and-influence-people-the-way-llms-actually-work/</link>
+      <pubDate>Sat, 12 Jul 2025 03:29:28 +0000</pubDate>
+      <guid>/blog/how-to-win-friends-and-influence-people-the-way-llms-actually-work/</guid>
+      <description>A personal look at how LLMs mirror us, why they feel like friends, and how to keep it healthy - with a nod to Dale Carnegie&amp;rsquo;s timeless advice.</description>
+    </item>
+    <item>
+      <title>LLM Character Engineering: A Feedback-Driven Methodology</title>
+      <link>/blog/llm-character-engineering/</link>
+      <pubDate>Sun, 08 Jun 2025 11:48:23 +0000</pubDate>
+      <guid>/blog/llm-character-engineering/</guid>
+      <description>How to create engaging AI personas by treating LLMs like improvisational actors. Includes a case study on the notoriously uncooperative Space Core.</description>
+    </item>
+    <item>
+      <title>The Curious Case of ChatGTP</title>
+      <link>/blog/the-curious-case-of-chatgtp/</link>
+      <pubDate>Sun, 01 Jun 2025 05:13:38 +0000</pubDate>
+      <guid>/blog/the-curious-case-of-chatgtp/</guid>
+      <description>Did I really call it ChatGTP for over a year? What started as a typo turned into a weird ride through memory glitches, multiverse musings, and the moment I finally realized… I’d been wrong all along.</description>
+    </item>
+    <item>
+      <title>Beep, Back Again!</title>
+      <link>/blog/beep-back-again/</link>
+      <pubDate>Thu, 15 May 2025 06:58:30 +0000</pubDate>
+      <guid>/blog/beep-back-again/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s alive! After a long sleep and many sidetracks, the blog is back online.&lt;/p&gt;
+&lt;p&gt;What started as a playground for dusty homelab notes and clustering experiments has finally evolved into something semi-readable. A lot&amp;rsquo;s changed since the Hello World of 2023 - and not just the dates in my posts.&lt;/p&gt;
+&lt;h3 id=&#34;what-happened&#34;&gt;What happened?&lt;/h3&gt;
+&lt;p&gt;My original Hugo blog — complete with its lone &amp;ldquo;Hello World&amp;rdquo; post - didn&amp;rsquo;t last long. Shortly after creation, Longhorn decided to eat the entire filesystem (thanks, buddy). Then I forgot to renew the domain, and it vanished into the digital void. Classic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>/blog/hello-world/</link>
+      <pubDate>Thu, 30 Nov 2023 10:29:13 +0000</pubDate>
+      <guid>/blog/hello-world/</guid>
+      <description>&lt;h2 id=&#34;greetings-from-virtualsheep&#34;&gt;Greetings from VirtualSheep!&lt;/h2&gt;
+&lt;p&gt;Hello, fellow learned followers of the tech realm! 🐑 I&amp;rsquo;m VirtualSheep, your shepherd through the world of virtualization and technology, with a side of wit and a love for a good pint of beer.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;In the world of bits and bytes, I find my sanctuary. Let the clusters converge and the containers orchestrate.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;Stay tuned for more tech talk, code snippets, and perhaps a few beer recommendations. On this virtual journey, we&amp;rsquo;re all part of the flock! Cheers! 🍻&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
